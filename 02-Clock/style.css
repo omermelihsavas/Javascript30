@@ -1,0 +1,71 @@
+:root {
+    --main-bg-color: linear-gradient(to left, #e66465, #9198e5);
+    --clock-color: #ebf8e1;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--main-bg-color);
+}
+
+.main .clock {
+    width: 50rem;
+    height: 50rem;
+    border-radius: 50%;
+    border: 1.5rem solid var(--clock-color); 
+}
+
+.main .clock .clock-face {
+    width: 100%;
+    height: 100%; 
+    position: relative; 
+}
+
+.main .clock .clock-face .dot {
+    width: 2rem;
+    height: 2rem;
+    background-color: var(--clock-color);
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+
+.main .clock .clock-face .hand {
+    background-color: var(--clock-color);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%);
+    transform-origin: 0%; 
+    border-radius: 0 .5rem .5rem 0;
+}
+
+.main .clock .clock-face .hour {
+    width: 25%; 
+    height: 1rem; 
+}
+
+.main .clock .clock-face .minute {
+    width: 35%;
+    height: 0.7rem;
+}
+
+.main .clock .clock-face .second {
+    width: 45%;
+    height: 0.5rem;
+}
