@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scoped CSS Variables and JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Update CSS Variables with <span class="a">JS</span></h1>
+    <div class="inputs">
+        <label for="spacing">Spacing:</label>
+        <input type="range" name="spacing" id="spacing" min="0" max="70" value="0" data-sizing="px">
+        
+        <label for="blur">Blur:</label>
+        <input type="range" name="blur" id="blur" min="0" max="30" value="0" data-sizing="px">
+        
+        <label for="color">Border Color:</label>
+        <input type="color" name="color" id="color" value="#f87f2e">
+    </div>
+    
+    <img src="/03-CSSVariables/image/eagle.jpg" width="600px" height="400px">
+<script src="script.js"></script>
+</body>
+</html>
