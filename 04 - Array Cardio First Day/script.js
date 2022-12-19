@@ -29,7 +29,7 @@ console.table(people);
 // 1. Filter the list of inventors for those who were born in the 1500's
 console.log("First Question:\nFilter the list of inventors for those who were born in the 1500's.")
 const bornIn1500s = inventors.filter(inventor => (inventor.year >= 1500 && inventor.year < 1600));
-console.table(bornIn1500s);
+console.table(bornIn1500s); 
 
 // Second Question
 // 2. Give us an array of the inventor first and last names
@@ -60,3 +60,28 @@ const oldest = inventors.sort(function (a, b) {
     return lastInventor > nextInventor ? -1 : 1;
 });
 console.table(oldest);
+
+// Sixth Question
+// Sort the people alphabetically by last name
+console.log("Sixth Question:\nSort the people alphabetically by last name.")
+const alphabetically = people.sort((lastOne, nextOne) => {
+    const [aLast, aFirst] = lastOne.split(', ');
+    const [bLast, bFirst] = nextOne.split(', ');
+    return aLast > bLast ? 1 : -1;
+});
+console.table(alphabetically);
+
+// Seventh Question
+// Find the number of identical words within the given data.
+const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck', 'pogostick'];
+console.log("Seventh Question:");
+console.table(data);
+console.log("Find the number of identical words within the given words.");
+const transportation = data.reduce(function (obj, item) {
+    if (!obj[item]) {
+        obj[item] = 0;        
+    }
+    obj[item]++;
+    return obj;
+}, {});
+console.log(transportation);
