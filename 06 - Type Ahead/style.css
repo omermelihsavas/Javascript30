@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+html {
+    background: linear-gradient(to right, #dc0a16, #fff);
+}
+
+form.form {
+    margin: 50px auto;
+    max-width: 500px;
+    
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3.5rem;
+    text-align: center;
+    color: #f2f2f2;
+    text-shadow: 1px 1px 2px #000;
+}
+
+input.search {
+    margin: 0 auto;
+    padding: 10px;
+    width: 100%;
+    border: 10px solid #f2f2f2;
+    outline: none;
+    font-size: 3rem;
+    color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    box-shadow: 5px #fff;
+}
+
+ul li {
+    margin: 0 auto;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    border: 10px solid #f2f2f2;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+ul li:nth-child(odd) {
+    background: #dc0a16;
+    opacity: 0.85;
+    color: #fff;
+}
+ul li:nth-child(even) {
+    background: #fff;
+    opacity: 0.85;
+    color: #dc0a16;
+}
+
+ul li span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+span.name {
+    display: flex;
+    justify-content: start;
+}
+
+span.plateCode {
+    display: flex;
+    justify-content: end;
+}
