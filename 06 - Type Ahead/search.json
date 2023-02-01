@@ -2,52 +2,52 @@
     {
         "plate": "01",
         "city": "Adana",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
     {
         "plate": "02",
         "city": "Adıyaman",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
     {
         "plate": "03",
         "city": "Afyon",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
     {
         "plate": "04",
         "city": "Ağrı",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
     {
         "plate": "05",
         "city": "Amasya",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
     {
         "plate": "06",
         "city": "Ankara",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
     {
         "plate": "07",
         "city": "Antalya",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
     {
         "plate": "08",
         "city": "Artvin",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
     {
         "plate": "09",
         "city": "Aydın",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
     {
         "plate": "10",
         "city": "Balıkesir",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
     {
         "plate": "11",
@@ -58,25 +58,25 @@
     {
         "plate": "12",
         "city": "Bingöl",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "13",
         "city": "Bitlis",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "14",
         "city": "Bolu",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "15",
         "city": "Burdur",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
@@ -94,25 +94,25 @@
     {
         "plate": "18",
         "city": "Çankırı",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "19",
         "city": "Çorum",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "20",
         "city": "Denizli",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "21",
         "city": "Diyarbakır",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
@@ -124,67 +124,67 @@
     {
         "plate": "23",
         "city": "Elazığ",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "24",
         "city": "Erzincan",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "25",
         "city": "Erzurum",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "26",
         "city": "Eskişehir",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "27",
         "city": "Gaziantep",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "28",
         "city": "Giresun",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "29",
         "city": "Gümüşhane",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "30",
         "city": "Hakkari",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "31",
         "city": "Hatay",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
         "plate": "32",
         "city": "Isparta",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
         "plate": "33",
         "city": "Mersin",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
@@ -196,25 +196,25 @@
     {
         "plate": "35",
         "city": "İzmir",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "36",
         "city": "Kars",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "37",
         "city": "Kastamonu",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "38",
         "city": "Kayseri",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
@@ -226,7 +226,7 @@
     {
         "plate": "40",
         "city": "Kırşehir",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
@@ -238,73 +238,73 @@
     {
         "plate": "42",
         "city": "Konya",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "43",
         "city": "Kütahya",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "44",
         "city": "Malatya",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "45",
         "city": "Manisa",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "46",
         "city": "Kahramanmaraş",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
         "plate": "47",
         "city": "Mardin",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "48",
         "city": "Muğla",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "49",
         "city": "Muş",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "50",
         "city": "Nevşehir",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "51",
         "city": "Niğde",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "52",
         "city": "Ordu",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "53",
         "city": "Rize",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
@@ -316,25 +316,25 @@
     {
         "plate": "55",
         "city": "Samsun",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "56",
         "city": "Siirt",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "57",
         "city": "Sinop",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "58",
         "city": "Sivas",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
@@ -346,103 +346,103 @@
     {
         "plate": "60",
         "city": "Tokat",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "61",
         "city": "Trabzon",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "62",
         "city": "Tunceli",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "63",
         "city": "Şanlıurfa",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "64",
         "city": "Uşak",
-        "religion": "Aegean"
+        "religion": "Ege"
     },
 
     {
         "plate": "65",
         "city": "Van",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "66",
         "city": "Yozgat",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "67",
         "city": "Zonguldak",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "68",
         "city": "Aksaray",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "69",
         "city": "Bayburt",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "70",
         "city": "Karaman",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "71",
         "city": "Kırıkkale",
-        "religion": "Central Anatolia"
+        "religion": "İç Anadolu"
     },
 
     {
         "plate": "72",
         "city": "Batman",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "73",
         "city": "Şırnak",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "74",
         "city": "Bartın",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "75",
         "city": "Ardahan",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
         "plate": "76",
         "city": "Iğdır",
-        "religion": "Eastern Anatolia"
+        "religion": "Doğu Anadolu"
     },
 
     {
@@ -454,24 +454,24 @@
     {
         "plate": "78",
         "city": "Karabük",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     },
 
     {
         "plate": "79",
         "city": "Kilis",
-        "religion": "Southeastern Anatolia"
+        "religion": "Güneydoğu Anadolu"
     },
 
     {
         "plate": "80",
         "city": "Osmaniye",
-        "religion": "Mediterranean"
+        "religion": "Akdeniz"
     },
 
     {
         "plate": "81",
         "city": "Düzce",
-        "religion": "Black Sea"
+        "religion": "Karadeniz"
     }
 ]

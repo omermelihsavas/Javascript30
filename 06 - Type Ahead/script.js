@@ -22,7 +22,7 @@ function displayMatches() {
                 <span class="plateCode">${place.plate.toString()}</span>
             </li>
             `;
-    }).join("");
+    }).join(" ");
     suggestions.innerHTML = innerHtml;
 }
 

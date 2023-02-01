@@ -13,7 +13,6 @@ html {
 form.form {
     margin: 50px auto;
     max-width: 500px;
-    
 }
 
 h1 {
@@ -55,6 +54,7 @@ ul li:nth-child(odd) {
     opacity: 0.85;
     color: #fff;
 }
+
 ul li:nth-child(even) {
     background: #fff;
     opacity: 0.85;
