@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hold Shift and Check Checkboxes</title>
+
+    <style>
+        html {
+            background: #f8a061;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: large;
+        }
+    
+        .card {
+            width: 400px;
+            margin: 50px auto;
+            background: #f5f5f5;
+            border-radius: 15px;
+            box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .card .header {
+            margin: 0;
+            padding: 10px;
+        }
+
+        .card .card-item {
+            display: flex;
+            align-items: center;
+            padding-left: 10px;
+        }
+
+        input:checked + p {
+            color: #f55f55;
+            text-decoration: line-through;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <h2 class="header">Checkbox list</h2>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>First checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Second checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Third checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Fourth checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Fifth checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Sixth checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Seventh checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Eighth checkbox</p>
+        </div>
+        <div class="card-item">
+            <input type="checkbox">
+            <p>Ninth checkbox</p>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
